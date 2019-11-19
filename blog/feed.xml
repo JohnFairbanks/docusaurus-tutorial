@@ -9,7 +9,7 @@
         <generator>Feed for Node.js</generator>
         <image>
             <title>Test Site Blog</title>
-            <url>https://JohnFairbanks.github.io/docusaurus-tutorialimg/favicon.ico</url>
+            <url>https://JohnFairbanks.github.io/docusaurus-tutorialstatic/img/favicon.ico</url>
             <link>https://JohnFairbanks.github.io/docusaurus-tutorialblog</link>
         </image>
         <copyright>Copyright © 2019 Your Name or Your Company Name</copyright>
